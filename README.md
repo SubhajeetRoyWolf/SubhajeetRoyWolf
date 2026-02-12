@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Subhajeet Roy
 
-<!--
-**SubhajeetRoyWolf/SubhajeetRoyWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | QA Automation | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+I’m a Software Engineer with 3.4+ years of experience in QA Automation, specializing in UI and API testing. I enjoy building scalable automation frameworks, improving test coverage, and ensuring product quality across systems.
+Currently, I’m expanding my skills into AI/ML, backend development, and data analytics to build intelligent and efficient solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+
+Languages: Python, Java, SQL
+Automation & Testing: Selenium, Playwright, PyTest, REST Assured, Postman
+Tools & DevOps: Git, GitHub, Jenkins, CI/CD
+Data & AI: Pandas, NumPy, Matplotlib, Streamlit
+Databases: MySQL, PostgreSQL
+
+🚀 What I Focus On
+
+End-to-end test automation
+API & backend validation
+Data-driven problem solving
+Continuous learning in AI and modern development
+
+📫 Connect With Me
+💼 LinkedIn: www.linkedin.com/in/subhajeet-roy-rajput
+
+
