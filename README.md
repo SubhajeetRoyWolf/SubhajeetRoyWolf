@@ -7,9 +7,9 @@ Currently, I’m expanding my skills into AI/ML, backend development, and data a
 
 🛠 Tech Stack
 
-Languages: Python, Java, SQL
+Languages: Python, SQL
 Automation & Testing: Selenium, Playwright, PyTest, REST Assured, Postman
-Tools & DevOps: Git, GitHub, Jenkins, CI/CD
+Tools Git, GitHub, Jenkins, CI/CD
 Data & AI: Pandas, NumPy, Matplotlib, Streamlit
 Databases: MySQL, PostgreSQL
 
